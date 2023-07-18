@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WestonConat
 - 👀 I’m interested in video streaming development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning how to integrate Python with video workflows
 - 📫 How to reach me: weston@blazestreaming.com
 
 <!---
